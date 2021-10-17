@@ -1,1 +1,3 @@
-# intro_julia_for_programers
+# Introduction to Julia for Programers
+
+at [JuliaAcademy](https://juliaacademy.com/)
